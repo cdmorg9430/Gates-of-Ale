@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GatesOfAle</string>
+    <string name = "body">Focused on presenting the elegance of a cold brew with the complex flavors delivered by a
+    smooth cigar.</string>
+    <string name = "hours">We are open every day but Sunday from 11AM - 9 PM</string>
+    <string name = "address1">We are located at: 123 Main St Ringgold, Ga</string>
+    <string name = "contact">Contact Us!</string>
+    <string name = "phone">Call: 919.123.4567</string>
+    <string name = "website">Visit: www.gatesofale.com</string>
+</resources>
